@@ -1,5 +1,6 @@
 # Snake-Java
-This project is my implementation of classic game "snake" in java. It is one of my first on my own programming projects. No tutorials followed. Rendering is done with Swing library. 
+This project is my implementation of classic game "snake" in java. It is one of my first on my own programming projects. No tutorials followed. Rendering is done with Swing library.
+
 Features:
 - Red head, white body and green apples colouring.
 - Random generation of apples.
